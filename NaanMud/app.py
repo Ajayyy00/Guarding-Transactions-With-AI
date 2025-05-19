@@ -167,7 +167,7 @@ Welcome to the AI-powered Credit Card Fraud Detection app! Select a sample trans
 
 # Load model and scaler
 try:
-    model = joblib.load('model.pkl')
+    model = joblib.load('NaanMud/model.pkl')
     scaler = joblib.load('scaler.pkl')
     logger.info("Model and scaler loaded successfully.")
 except Exception as e:
