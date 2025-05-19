@@ -1,0 +1,169 @@
+2025-05-19 19:24:19,028 - ERROR - Model/scaler loading failed: [Errno 2] No such file or directory: 'best_fraud_detection_model.pkl'
+2025-05-19 19:25:17,830 - ERROR - Model/scaler loading failed: [Errno 2] No such file or directory: 'best_fraud_detection_model.pkl'
+2025-05-19 19:26:08,801 - ERROR - Model/scaler loading failed: [Errno 2] No such file or directory: 'model.pkl'
+2025-05-19 19:26:37,794 - INFO - Model and scaler loaded successfully.
+2025-05-19 19:27:20,116 - INFO - Model and scaler loaded successfully.
+2025-05-19 19:27:55,658 - INFO - Model and scaler loaded successfully.
+2025-05-19 19:28:00,049 - INFO - Model and scaler loaded successfully.
+2025-05-19 19:28:00,059 - INFO - Processing prediction for Amount: 149.62, Time: 0.0
+2025-05-19 19:28:00,063 - INFO - Features standardized successfully.
+2025-05-19 19:28:00,068 - INFO - Prediction: Legitimate
+2025-05-19 19:28:06,237 - INFO - Model and scaler loaded successfully.
+2025-05-19 19:28:06,376 - INFO - Model and scaler loaded successfully.
+2025-05-19 19:28:06,542 - INFO - Model and scaler loaded successfully.
+2025-05-19 19:28:06,707 - INFO - Model and scaler loaded successfully.
+2025-05-19 19:28:06,872 - INFO - Model and scaler loaded successfully.
+2025-05-19 19:28:07,039 - INFO - Model and scaler loaded successfully.
+2025-05-19 19:28:07,211 - INFO - Model and scaler loaded successfully.
+2025-05-19 19:28:07,351 - INFO - Model and scaler loaded successfully.
+2025-05-19 19:28:07,558 - INFO - Model and scaler loaded successfully.
+2025-05-19 19:28:07,714 - INFO - Model and scaler loaded successfully.
+2025-05-19 19:28:09,442 - INFO - Model and scaler loaded successfully.
+2025-05-19 19:28:10,787 - INFO - Model and scaler loaded successfully.
+2025-05-19 19:28:10,961 - INFO - Model and scaler loaded successfully.
+2025-05-19 19:28:11,085 - INFO - Model and scaler loaded successfully.
+2025-05-19 19:28:11,200 - INFO - Model and scaler loaded successfully.
+2025-05-19 19:28:11,333 - INFO - Model and scaler loaded successfully.
+2025-05-19 19:28:11,499 - INFO - Model and scaler loaded successfully.
+2025-05-19 19:28:11,632 - INFO - Model and scaler loaded successfully.
+2025-05-19 19:28:11,790 - INFO - Model and scaler loaded successfully.
+2025-05-19 19:28:11,946 - INFO - Model and scaler loaded successfully.
+2025-05-19 19:28:12,086 - INFO - Model and scaler loaded successfully.
+2025-05-19 19:28:12,226 - INFO - Model and scaler loaded successfully.
+2025-05-19 19:28:12,358 - INFO - Model and scaler loaded successfully.
+2025-05-19 19:28:12,497 - INFO - Model and scaler loaded successfully.
+2025-05-19 19:28:12,628 - INFO - Model and scaler loaded successfully.
+2025-05-19 19:28:15,247 - INFO - Model and scaler loaded successfully.
+2025-05-19 19:28:15,622 - INFO - Model and scaler loaded successfully.
+2025-05-19 19:28:15,771 - INFO - Model and scaler loaded successfully.
+2025-05-19 19:28:15,927 - INFO - Model and scaler loaded successfully.
+2025-05-19 19:28:16,773 - INFO - Model and scaler loaded successfully.
+2025-05-19 19:28:16,781 - INFO - Processing prediction for Amount: 250.13999999999987, Time: 7204.0
+2025-05-19 19:28:16,781 - INFO - Features standardized successfully.
+2025-05-19 19:28:16,789 - INFO - Prediction: Legitimate
+2025-05-19 19:28:21,286 - INFO - Model and scaler loaded successfully.
+2025-05-19 19:28:21,440 - INFO - Model and scaler loaded successfully.
+2025-05-19 19:28:21,597 - INFO - Model and scaler loaded successfully.
+2025-05-19 19:28:21,787 - INFO - Model and scaler loaded successfully.
+2025-05-19 19:28:21,968 - INFO - Model and scaler loaded successfully.
+2025-05-19 19:28:22,117 - INFO - Model and scaler loaded successfully.
+2025-05-19 19:28:22,267 - INFO - Model and scaler loaded successfully.
+2025-05-19 19:28:22,531 - INFO - Model and scaler loaded successfully.
+2025-05-19 19:28:22,772 - INFO - Model and scaler loaded successfully.
+2025-05-19 19:28:23,003 - INFO - Model and scaler loaded successfully.
+2025-05-19 19:28:23,244 - INFO - Model and scaler loaded successfully.
+2025-05-19 19:28:23,525 - INFO - Model and scaler loaded successfully.
+2025-05-19 19:28:23,883 - INFO - Model and scaler loaded successfully.
+2025-05-19 19:28:24,106 - INFO - Model and scaler loaded successfully.
+2025-05-19 19:28:25,878 - INFO - Model and scaler loaded successfully.
+2025-05-19 19:28:26,059 - INFO - Model and scaler loaded successfully.
+2025-05-19 19:28:26,215 - INFO - Model and scaler loaded successfully.
+2025-05-19 19:28:26,424 - INFO - Model and scaler loaded successfully.
+2025-05-19 19:28:26,845 - INFO - Model and scaler loaded successfully.
+2025-05-19 19:28:28,632 - INFO - Model and scaler loaded successfully.
+2025-05-19 19:28:29,697 - INFO - Model and scaler loaded successfully.
+2025-05-19 19:28:29,697 - INFO - Processing prediction for Amount: 250.0, Time: 7200.0
+2025-05-19 19:28:29,705 - INFO - Features standardized successfully.
+2025-05-19 19:28:29,729 - INFO - Prediction: Legitimate
+2025-05-19 19:28:36,163 - INFO - Model and scaler loaded successfully.
+2025-05-19 19:28:37,450 - INFO - Model and scaler loaded successfully.
+2025-05-19 19:28:37,458 - INFO - Processing prediction for Amount: 0.0, Time: 0.0
+2025-05-19 19:28:37,483 - INFO - Features standardized successfully.
+2025-05-19 19:28:37,491 - INFO - Prediction: Fraudulent
+2025-05-19 19:28:41,162 - INFO - Model and scaler loaded successfully.
+2025-05-19 19:28:42,477 - INFO - Model and scaler loaded successfully.
+2025-05-19 19:28:42,485 - INFO - Processing prediction for Amount: 149.62, Time: 0.0
+2025-05-19 19:28:42,485 - INFO - Features standardized successfully.
+2025-05-19 19:28:42,501 - INFO - Prediction: Legitimate
+2025-05-19 19:28:45,088 - INFO - Model and scaler loaded successfully.
+2025-05-19 19:28:45,970 - INFO - Model and scaler loaded successfully.
+2025-05-19 19:28:45,978 - INFO - Processing prediction for Amount: 250.0, Time: 7200.0
+2025-05-19 19:28:46,003 - INFO - Features standardized successfully.
+2025-05-19 19:28:46,012 - INFO - Prediction: Legitimate
+2025-05-19 19:28:51,819 - INFO - Model and scaler loaded successfully.
+2025-05-19 19:28:52,859 - INFO - Model and scaler loaded successfully.
+2025-05-19 19:28:52,867 - INFO - Processing prediction for Amount: 75.0, Time: 43200.0
+2025-05-19 19:28:52,875 - INFO - Features standardized successfully.
+2025-05-19 19:28:52,888 - INFO - Prediction: Legitimate
+2025-05-19 19:28:54,983 - INFO - Model and scaler loaded successfully.
+2025-05-19 19:28:55,148 - INFO - Model and scaler loaded successfully.
+2025-05-19 19:28:55,312 - INFO - Model and scaler loaded successfully.
+2025-05-19 19:28:55,438 - INFO - Model and scaler loaded successfully.
+2025-05-19 19:28:56,726 - INFO - Model and scaler loaded successfully.
+2025-05-19 19:28:56,874 - INFO - Model and scaler loaded successfully.
+2025-05-19 19:28:57,007 - INFO - Model and scaler loaded successfully.
+2025-05-19 19:28:57,146 - INFO - Model and scaler loaded successfully.
+2025-05-19 19:28:57,265 - INFO - Model and scaler loaded successfully.
+2025-05-19 19:28:57,412 - INFO - Model and scaler loaded successfully.
+2025-05-19 19:28:57,544 - INFO - Model and scaler loaded successfully.
+2025-05-19 19:28:57,677 - INFO - Model and scaler loaded successfully.
+2025-05-19 19:28:57,832 - INFO - Model and scaler loaded successfully.
+2025-05-19 19:28:58,057 - INFO - Model and scaler loaded successfully.
+2025-05-19 19:28:58,977 - INFO - Model and scaler loaded successfully.
+2025-05-19 19:28:58,985 - INFO - Processing prediction for Amount: 75.14000000000007, Time: 43200.0
+2025-05-19 19:28:59,004 - INFO - Features standardized successfully.
+2025-05-19 19:28:59,010 - INFO - Prediction: Legitimate
+2025-05-19 19:29:02,426 - INFO - Model and scaler loaded successfully.
+2025-05-19 19:29:02,717 - INFO - Model and scaler loaded successfully.
+2025-05-19 19:29:02,848 - INFO - Model and scaler loaded successfully.
+2025-05-19 19:29:04,138 - INFO - Model and scaler loaded successfully.
+2025-05-19 19:29:06,021 - INFO - Model and scaler loaded successfully.
+2025-05-19 19:29:06,309 - INFO - Model and scaler loaded successfully.
+2025-05-19 19:29:06,499 - INFO - Model and scaler loaded successfully.
+2025-05-19 19:29:08,798 - INFO - Model and scaler loaded successfully.
+2025-05-19 19:29:08,806 - INFO - Processing prediction for Amount: 75.14000000000007, Time: 43207.0
+2025-05-19 19:29:08,806 - INFO - Features standardized successfully.
+2025-05-19 19:29:08,816 - INFO - Prediction: Legitimate
+2025-05-19 19:30:50,315 - INFO - Model and scaler loaded successfully.
+2025-05-19 19:30:53,599 - INFO - Model and scaler loaded successfully.
+2025-05-19 19:30:54,690 - INFO - Model and scaler loaded successfully.
+2025-05-19 19:30:54,699 - INFO - Processing prediction for Amount: 1.0, Time: 10000.0
+2025-05-19 19:30:54,699 - INFO - Features standardized successfully.
+2025-05-19 19:30:54,707 - INFO - Prediction: Legitimate
+2025-05-19 19:30:56,619 - INFO - Model and scaler loaded successfully.
+2025-05-19 19:30:56,619 - INFO - Processing prediction for Amount: 1.0, Time: 10000.0
+2025-05-19 19:30:56,619 - INFO - Features standardized successfully.
+2025-05-19 19:30:56,631 - INFO - Prediction: Legitimate
+2025-05-19 19:31:09,358 - INFO - Model and scaler loaded successfully.
+2025-05-19 19:31:10,505 - INFO - Model and scaler loaded successfully.
+2025-05-19 19:31:11,218 - INFO - Model and scaler loaded successfully.
+2025-05-19 19:35:30,357 - INFO - Model and scaler loaded successfully.
+2025-05-19 19:35:32,767 - INFO - Model and scaler loaded successfully.
+2025-05-19 19:35:32,784 - INFO - Processing prediction for Amount: 149.62, Time: 0.0
+2025-05-19 19:35:32,792 - INFO - Features standardized successfully.
+2025-05-19 19:35:32,808 - INFO - Prediction: Legitimate
+2025-05-19 19:35:35,378 - INFO - Model and scaler loaded successfully.
+2025-05-19 19:35:36,352 - INFO - Model and scaler loaded successfully.
+2025-05-19 19:35:36,361 - INFO - Processing prediction for Amount: 0.0, Time: 0.0
+2025-05-19 19:35:36,369 - INFO - Features standardized successfully.
+2025-05-19 19:35:36,385 - INFO - Prediction: Fraudulent
+2025-05-19 19:35:49,070 - INFO - Model and scaler loaded successfully.
+2025-05-19 19:35:49,227 - INFO - Model and scaler loaded successfully.
+2025-05-19 19:35:51,643 - INFO - Model and scaler loaded successfully.
+2025-05-19 19:35:51,832 - INFO - Model and scaler loaded successfully.
+2025-05-19 19:35:51,981 - INFO - Model and scaler loaded successfully.
+2025-05-19 19:35:52,131 - INFO - Model and scaler loaded successfully.
+2025-05-19 19:35:52,281 - INFO - Model and scaler loaded successfully.
+2025-05-19 19:35:52,406 - INFO - Model and scaler loaded successfully.
+2025-05-19 19:35:54,030 - INFO - Model and scaler loaded successfully.
+2025-05-19 19:35:54,038 - INFO - Processing prediction for Amount: 0.08, Time: 0.0
+2025-05-19 19:35:54,050 - INFO - Features standardized successfully.
+2025-05-19 19:35:54,054 - INFO - Prediction: Fraudulent
+2025-05-19 19:36:01,640 - INFO - Model and scaler loaded successfully.
+2025-05-19 19:36:01,789 - INFO - Model and scaler loaded successfully.
+2025-05-19 19:36:01,936 - INFO - Model and scaler loaded successfully.
+2025-05-19 19:36:02,136 - INFO - Model and scaler loaded successfully.
+2025-05-19 19:36:02,560 - INFO - Model and scaler loaded successfully.
+2025-05-19 19:36:02,701 - INFO - Model and scaler loaded successfully.
+2025-05-19 19:36:02,908 - INFO - Model and scaler loaded successfully.
+2025-05-19 19:36:03,620 - INFO - Model and scaler loaded successfully.
+2025-05-19 19:36:03,629 - INFO - Processing prediction for Amount: 0.15, Time: 0.0
+2025-05-19 19:36:03,629 - INFO - Features standardized successfully.
+2025-05-19 19:36:03,646 - INFO - Prediction: Fraudulent
+2025-05-19 19:36:19,839 - INFO - Model and scaler loaded successfully.
+2025-05-19 19:36:23,009 - INFO - Model and scaler loaded successfully.
+2025-05-19 19:36:23,184 - INFO - Model and scaler loaded successfully.
+2025-05-19 19:36:23,192 - INFO - Processing prediction for Amount: 142.0, Time: 1000.0
+2025-05-19 19:36:23,192 - INFO - Features standardized successfully.
+2025-05-19 19:36:23,209 - INFO - Prediction: Fraudulent
+2025-05-19 19:42:54,216 - INFO - Model and scaler loaded successfully.
